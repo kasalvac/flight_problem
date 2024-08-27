@@ -1,1 +1,10 @@
+my personal take at the flight problem presented in a video. 
 problem from: https://www.youtube.com/watch?v=qz9tKlF431k&ab_channel=Cl%C3%A9mentMihailescu
+task:
+  connect a new theoreical eirport to an existing network of flights
+conditions:
+  set up little new flighst as possible
+  the new airport has to be onected with all other airports 
+  the number of layovers in order to connect new airport is not limited
+
+the script is work in porgress
