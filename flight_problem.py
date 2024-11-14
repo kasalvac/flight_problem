@@ -36,4 +36,5 @@ def find_possible_destinations(start):
     return (options)
 
 test = find_possible_destinations("CDG")
+
 print(test)
